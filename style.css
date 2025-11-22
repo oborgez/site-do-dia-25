@@ -10,7 +10,7 @@ body {
 
 header {
     height: 180px;
-    background-image: url("https://github.com/oborgez/site-do-dia-25/blob/main/panenosistema.jpeg");
+    background-image: url("panenosistema.jpeg");
     background-size: 500px 180px;
     padding: 60px;
     text-align: center;
